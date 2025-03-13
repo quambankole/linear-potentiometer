@@ -1,5 +1,5 @@
 {
-    "name": "linear potentiometer",
+    "name": "linear potentiometer-main",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -25,5 +25,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
